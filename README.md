@@ -2,7 +2,7 @@
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
-## Welcome home! 👋
+## Welcome home again! 👋
 
 Thanks for checking out this front-end coding challenge.
 
